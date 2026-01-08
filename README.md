@@ -1,6 +1,6 @@
 # Globus Data Transfer Script
 
-A Python script for automating batch transfers of `.egg` files using Globus CLI.
+This python script automates batched data transfers of .egg files between Globus endpoints using the Globus CLI. It is designed for large, distributed datasets where files are organized across many directories and transfers must be staged, monitored, and manually gated for safety.
 
 ## Description
 
